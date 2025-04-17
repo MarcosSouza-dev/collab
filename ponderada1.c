@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+// media ponderada de 2 notas //
 int main() {
 
     double A, B, media;
